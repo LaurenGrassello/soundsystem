@@ -28,7 +28,7 @@
 <br>
 -Add or remove songs to playlist
 <br>
--'Like' or 'Unline' songs and playlists
+-'Like' or 'Unlike' songs and playlists
 <br>
 -Rate songs and playlists
 <br>
