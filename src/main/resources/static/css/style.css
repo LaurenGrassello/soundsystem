@@ -1,0 +1,161 @@
+.logo {
+	font-family: 'Bangers', cursive;
+	font-size: 40pt;
+}
+
+.welcome {
+	font-family: 'Bangers', cursive;
+	font-size: 20pt;
+}
+
+.logoHome {
+	font-family: 'Bangers', cursive;
+	font-size: 30pt;
+	margin-left: 120px;
+}
+
+p {
+	margin-left: 220px;
+}
+
+.navDivHome {
+	margin-right: 30px;
+}
+
+
+.navDivHomeTwo {
+	margin-top: 15px;
+	box-shadow: 3px 10px 20px 10px;
+}
+
+.navTwo {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin: 4px;
+	margin-left: 400px;
+	display: flex;
+	text-align: center;
+}
+
+.navThree {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin: 4px;
+}
+
+h4 {
+	font-family: 'Bangers', cursive;
+	font-size: 20pt;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.indexLink, .indexH1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+
+.formIdx {
+	border: solid;
+	box-shadow: 3px 10px 20px 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 80px;
+	padding: 50px;
+}
+
+label, input {
+	display: flex;
+	flex-direction: column;
+	margin: 10px;
+}
+
+
+.my-custom-scrollbar {
+position: relative;
+height: 500px;
+overflow: auto;
+border:none;
+color:black;
+}
+.table-wrapper-scroll {
+display: block;
+border:none;
+color:black;
+}
+
+.greeting {
+	margin: 15px;
+	font-weight: lighter;
+}
+
+.topNavGreeting {
+	margin-left: 150px;
+	font-weight: bolder;
+	margin-top: 10px;
+}
+
+.navGreetDiv {
+	display: flex;
+	flex-direction: column;
+}
+
+body {
+	background-color: black;
+	color:#e600ac;
+	margin: 0;
+	padding: 0;
+}
+
+input{
+	border:none;
+	background-color:#e600ac;
+}
+
+.navbar {
+	background-color:#e600ac;
+	color: black;
+}
+
+table, th, td, tr, tbody, thead, .btn {
+	color:#e600ac;
+}
+
+a {
+	color:#e600ac;
+}
+
+.card {
+	margin-left:50px;
+	height: max-content;
+	background-color: black;
+	width: max-content;
+
+}
+
+.createPL {
+	width: 800px;
+	margin-top: 50px;
+}
+
+
+.cardFav{
+	display:inline-block;
+	margin-right:300px;
+
+}
+
+.containerOneSong{
+	margin-top:75px;
+	width: 800px;
+	margin-left: 550px;
+
+}
