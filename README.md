@@ -1,4 +1,4 @@
-# soundsystem!
+# soundsystem
 ![SSIMG2](https://user-images.githubusercontent.com/97255159/165973195-d685cbc0-9564-4b03-a927-70c2e01b90fe.png)
 <h1>Sound System</h1>
 <br>
