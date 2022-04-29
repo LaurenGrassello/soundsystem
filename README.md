@@ -8,7 +8,7 @@
 <li>https://www.linkedin.com/in/laurenodalen/</li>
 <li>laurenodalen@gmail.com</li>
 </ul>
-Built With:
+<h5>Built With:</h5>
 <br>
 -Jave MVC
 <br>
@@ -18,7 +18,7 @@ Built With:
 <br>
 <br>
 <br>
-Features:
+<h5>Features:</h5>
 <br>
 -Login and Registration
 <br>
