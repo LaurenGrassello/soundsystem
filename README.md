@@ -10,9 +10,9 @@
 </ul>
 <h5>Built With:</h5>
 <br>
--Jave MVC
+-Java
 <br>
--Spring Boot
+-Spring MVC
 <br>
 -Bootstrap
 <br>
